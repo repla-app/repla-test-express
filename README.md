@@ -1,5 +1,13 @@
 # Repla Test Express
 
-## Run Command
+## Creation
+
+Created with:
+
+	express --view=pug repla-test-express
+
+## Running
+
+Run with:
 
 	DEBUG=myapp:* npm start
